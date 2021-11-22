@@ -1,0 +1,4 @@
+venv/
+compilation/
+test/
+.idea/
